@@ -1,0 +1,12 @@
+body {
+  background-color: #414141;
+}
+svg {
+  margin: 0 auto;
+  display: block;
+  max-width: 100vw;
+}
+
+g {
+  stroke-dasharray: 1000;
+}
